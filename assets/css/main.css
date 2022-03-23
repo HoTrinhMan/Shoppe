@@ -1246,7 +1246,11 @@ i.home-product-item__like-icon {
 }
 
 .footer-download__app-img {
-    height: 18px;
+    height: 30px;
+}
+
+.app-img-app-store{
+    height: 42px;
 }
 
 .footer-download__app-link {
